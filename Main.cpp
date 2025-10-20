@@ -3,7 +3,7 @@
 #include <chrono>
 #include "BubbleSort.h"
 //#include "SelectionSort.h"
-//#include "InsertionSort.h"
+#include "InsertionSort.h"
 //#include "QuickSort.h"
 //#include "RadixSort.h"
 using namespace std;
